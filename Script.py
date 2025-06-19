@@ -4,7 +4,28 @@
 
 
 class script(object):
-    START_TXT = """<b>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ {} 👋, ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ + ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + sᴛʀᴇᴀᴍ / ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴇᴀᴛᴜʀᴇ + ᴄᴜꜱᴛᴏᴍ ᴜʀʟ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ </b>"""
+    START_TXT = """<b>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ {} 👋, 🔞 Wᴇʟᴄᴏᴍᴇ 𝙏𝙤 Aᴅᴜʟᴛ Vɪᴅᴇᴏ Bᴏᴛ 🔞
+┏━━━━━━━━━━━━✧━━━━━━━━━━━━┓
+🔥 18+ ᴄᴏɴᴛᴇɴᴛ ᴏɴʟʏ – ᴘʀᴏᴄᴇᴇᴅ ᴏɴʟʏ ɪꜰ ʏᴏᴜ ᴀʀᴇ ᴀᴅᴜʟᴛ
+
+🔹 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻 𝗗𝗼:
+🔍 Sᴇᴀʀᴄʜ Aᴅᴜʟᴛ Vɪᴅᴇᴏꜱ
+📂 Gᴇᴛ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋꜱ
+🎞️ Fɪʟᴛᴇʀᴇᴅ ʙʏ ɢᴇɴʀᴇ, ᴛᴀɢꜱ, ᴏʀ ɴᴀᴍᴇ
+🕒 Fᴀꜱᴛ ᴀɴᴅ ᴀᴅ-ꜰʀᴇᴇ ᴀᴄᴄᴇꜱꜱ
+
+📌 Uꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ʀᴇꜱᴘᴏɴꜱɪʙʟʏ. ᴡᴇ ᴅᴏ ɴᴏᴛ ᴛᴏʟᴇʀᴀᴛᴇ ɪʟʟᴇɢᴀʟ, ᴠɪᴏʟᴇɴᴛ, ᴏʀ ɴᴏɴ-ᴄᴏɴꜱᴇɴꜱᴜᴀʟ ᴄᴏɴᴛᴇɴᴛ.
+
+❌ 𝗜𝗙 𝗬𝗢𝗨 𝗔𝗥𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟴, 𝗣𝗟𝗘𝗔𝗦𝗘 𝗟𝗘𝗔𝗩𝗘 𝗜𝗠𝗠𝗘𝗗𝗜𝗔𝗧𝗘𝗟𝗬.
+
+
+---
+
+💬 Fᴏʀ Sᴜᴘᴘᴏʀᴛ ᴏʀ Qᴜᴇʀɪᴇꜱ:
+🔹 Help:  [           ]
+🔹 Admin: @Satyam_x2
+
+</b>"""
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -15,7 +36,7 @@ class script(object):
 
 ⚙️ sɪᴢᴇ : {file_size}
 
-Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/vj_botz)</b>""" 
+Jᴏɪɴ [ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ](https://t.me/)</b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
@@ -43,7 +64,28 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
+    ABOUT_TXT = """<b>🔞 Wᴇʟᴄᴏᴍᴇ 𝙏𝙤 Aᴅᴜʟᴛ Vɪᴅᴇᴏ Bᴏᴛ 🔞
+┏━━━━━━━━━━━━✧━━━━━━━━━━━━┓
+🔥 18+ ᴄᴏɴᴛᴇɴᴛ ᴏɴʟʏ – ᴘʀᴏᴄᴇᴇᴅ ᴏɴʟʏ ɪꜰ ʏᴏᴜ ᴀʀᴇ ᴀᴅᴜʟᴛ
+
+🔹 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻 𝗗𝗼:
+🔍 Sᴇᴀʀᴄʜ Aᴅᴜʟᴛ Vɪᴅᴇᴏꜱ
+📂 Gᴇᴛ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋꜱ
+🎞️ Fɪʟᴛᴇʀᴇᴅ ʙʏ ɢᴇɴʀᴇ, ᴛᴀɢꜱ, ᴏʀ ɴᴀᴍᴇ
+🕒 Fᴀꜱᴛ ᴀɴᴅ ᴀᴅ-ꜰʀᴇᴇ ᴀᴄᴄᴇꜱꜱ
+
+📌 Uꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ʀᴇꜱᴘᴏɴꜱɪʙʟʏ. ᴡᴇ ᴅᴏ ɴᴏᴛ ᴛᴏʟᴇʀᴀᴛᴇ ɪʟʟᴇɢᴀʟ, ᴠɪᴏʟᴇɴᴛ, ᴏʀ ɴᴏɴ-ᴄᴏɴꜱᴇɴꜱᴜᴀʟ ᴄᴏɴᴛᴇɴᴛ.
+
+❌ 𝗜𝗙 𝗬𝗢𝗨 𝗔𝗥𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟴, 𝗣𝗟𝗘𝗔𝗦𝗘 𝗟𝗘𝗔𝗩𝗘 𝗜𝗠𝗠𝗘𝗗𝗜𝗔𝗧𝗘𝗟𝗬.
+
+
+---
+
+💬 Fᴏʀ Sᴜᴘᴘᴏʀᴛ ᴏʀ Qᴜᴇʀɪᴇꜱ:
+🔹 Help: 
+🔹 Admin: @Satyam_x2
+
+
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
@@ -51,14 +93,34 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Kingvj01>𝐓𝐞𝐜𝐡 𝐕𝐉</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/darkworld008>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/VJ_Bot_Disscussion>𝐕𝐉 𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
+👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/>𝐒𝐮𝐩𝐩𝐨𝐫𝐭</a>
 
-📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/vj_botz>𝐕𝐉 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
+📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/>𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
 
-    CABOUT_TXT = """<b>ʜɪ ɪ ᴀᴍ ᴘᴇʀᴍᴀɴᴇɴᴛ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ ᴡɪᴛʜ ᴄʟᴏɴᴇ ғᴇᴀᴛᴜʀᴇ + ᴄᴜsᴛᴏᴍ ᴜʀʟ sʜᴏʀᴛɴᴇʀ ɪᴛ ᴍᴇᴀɴs ᴀɴʏ ᴜsᴇʀ ᴄᴀɴ sᴇᴛ ʜɪs ᴜʀʟ sʜᴏʀᴛɴᴇʀ ᴀɴᴅ + ᴀᴜᴛᴏ ᴅᴇʟᴇᴛᴇ.
+    CABOUT_TXT = """<b>🔞 Wᴇʟᴄᴏᴍᴇ 𝙏𝙤 Aᴅᴜʟᴛ Vɪᴅᴇᴏ Bᴏᴛ 🔞
+┏━━━━━━━━━━━━✧━━━━━━━━━━━━┓
+🔥 18+ ᴄᴏɴᴛᴇɴᴛ ᴏɴʟʏ – ᴘʀᴏᴄᴇᴇᴅ ᴏɴʟʏ ɪꜰ ʏᴏᴜ ᴀʀᴇ ᴀᴅᴜʟᴛ
+
+🔹 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻 𝗗𝗼:
+🔍 Sᴇᴀʀᴄʜ Aᴅᴜʟᴛ Vɪᴅᴇᴏꜱ
+📂 Gᴇᴛ Dɪʀᴇᴄᴛ Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋꜱ
+🎞️ Fɪʟᴛᴇʀᴇᴅ ʙʏ ɢᴇɴʀᴇ, ᴛᴀɢꜱ, ᴏʀ ɴᴀᴍᴇ
+🕒 Fᴀꜱᴛ ᴀɴᴅ ᴀᴅ-ꜰʀᴇᴇ ᴀᴄᴄᴇꜱꜱ
+
+📌 Uꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ʀᴇꜱᴘᴏɴꜱɪʙʟʏ. ᴡᴇ ᴅᴏ ɴᴏᴛ ᴛᴏʟᴇʀᴀᴛᴇ ɪʟʟᴇɢᴀʟ, ᴠɪᴏʟᴇɴᴛ, ᴏʀ ɴᴏɴ-ᴄᴏɴꜱᴇɴꜱᴜᴀʟ ᴄᴏɴᴛᴇɴᴛ.
+
+❌ 𝗜𝗙 𝗬𝗢𝗨 𝗔𝗥𝗘 𝗨𝗡𝗗𝗘𝗥 𝟭𝟴, 𝗣𝗟𝗘𝗔𝗦𝗘 𝗟𝗘𝗔𝗩𝗘 𝗜𝗠𝗠𝗘𝗗𝗜𝗔𝗧𝗘𝗟𝗬.
+
+
+---
+
+💬 Fᴏʀ Sᴜᴘᴘᴏʀᴛ ᴏʀ Qᴜᴇʀɪᴇꜱ:
+🔹 Help: 
+🔹 Admin: @Satyam_x2
+
 
 🤖 ᴍʏ ɴᴀᴍᴇ: {}
 
@@ -66,7 +128,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=tg://user?id={}>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/darkworld008>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a></b>
 """
 
 # Don't Remove Credit Tg - @VJ_Botz
@@ -94,7 +156,7 @@ First Send /clone command then follow below steps.
 🔻 /link - ʀᴇᴘʟʏ ᴛᴏ ᴀ ᴠɪᴅᴇᴏ ᴏʀ ғɪʟᴇ ᴛᴏ ɢᴇᴛ sʜᴀʀᴀʙʟᴇ ʟɪɴᴋ
 
 🔻 /batch - sᴇɴᴅ ғɪʀsᴛ ʟɪɴᴋ ᴏғ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ ᴘᴏsᴛ ᴛʜᴇɴ ʟᴀsᴛ ᴘᴏsᴛ ʟɪɴᴋ ᴀɴᴅ ᴍᴀᴋᴇ sᴜʀᴇ ʙᴏᴛ ɪs ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ғɪʟᴇ sᴛᴏʀᴇ ᴄʜᴀɴɴᴇʟ.
-ᴇx - /batch https://t.me/vj_botz/25 https://t.me/vj_botz/30
+ᴇx - /batch https://t.me/demo/25 https://t.me/demo/30
 
 🔻 /clone - ᴄʀᴇᴀᴛᴇ ʏᴏᴜʀ ᴏᴡɴ ɪᴅᴇɴᴛɪᴄᴀʟ ᴄʟᴏɴᴇ ʙᴏᴛ
 
@@ -136,7 +198,9 @@ ID - <code>{}</code>
 Nᴀᴍᴇ - {}</b>
 """
     RESTART_TXT = """
-<b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
+<b>♻️ Bot Restarted Successfully
+🔧 𝗔𝗰𝘁𝗶𝗼𝗻 𝗽𝗲𝗿𝗳𝗼𝗿𝗺𝗲𝗱 𝗯𝘆: @darkworld008
+ 
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
